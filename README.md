@@ -1,8 +1,8 @@
 # 준비 작업
 ## Github
-본 리포지토리를 본인 Github 계정에 포크떠서 개발을 진행해주시기 바랍니다.
-작업은 feature branch를 만들어 커밋을 해주시고, 해당 branch를 fork 하신 개인 repository에 push 해주시기 바랍니다.
-**작업 완료 후 PR 주시고 최대한 의미 있는 작업 단위로 커밋을 해주시기 바랍니다.**
+- 본 리포지토리를 본인 Github 계정에 포크떠서 개발을 진행해주시기 바랍니다.
+- 작업은 feature branch를 만들어 커밋을 해주시고, 해당 branch를 fork 하신 개인 repository에 push 해주시기 바랍니다.
+- **작업 완료 후 PR 주시고 최대한 의미 있는 작업 단위로 커밋을 해주시기 바랍니다.**
 
 ## Tech Spec
 - 언어: 자바
