@@ -50,8 +50,7 @@
 
 
 ### DB 연결 정보
-아래 정보로 데이터베이스에 접속하시면 됩니다.
-max connection 갯수는 2 이하로 제한해주시기 바랍니다.
+- **(중요) max connection 갯수는 5 이하로 제한해주시기 바랍니다.**
 ```
 host : dev-assignment.cjugioimm614.ap-northeast-2.rds.amazonaws.com
 port : 3306
@@ -59,7 +58,7 @@ user : {별도제공}
 pw : {별도제공}
 ```
 
-DB 및 ORM 괸련 라이브러리(Hibernate, Jdbc 등)는 자유롭게 사용하셔도 됩니다.
+- DB 및 ORM 관련 라이브러리(Hibernate, Jdbc 등)는 자유롭게 사용하셔도 됩니다.
 
 ## 추가 고려 사항
 ### 필수: API 디자인
